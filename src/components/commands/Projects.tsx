@@ -58,13 +58,13 @@ const projects = [
     id: 1,
     title: "Stick Design",
     desc: "My personal site where I can write and post my project.",
-    url: "https://satnaing.dev/blog/",
+    url: "https://stick-design.ru/",
   },
   {
     id: 2,
-    title: "VpnOchka",
+    title: "Locky VPN",
     desc: "Service sale config for using vpn on protocol wireguard",
-    url: "https://vpnochka.com/",
+    url: "https://lockyvpn.com/",
   },
 ];
 
